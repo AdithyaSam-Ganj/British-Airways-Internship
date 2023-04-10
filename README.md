@@ -18,11 +18,14 @@ I did this project as a part of the virtual internship offered by British Airway
 1. NLP - 
 
 a. I learnt about encoding Decoding techniques in NLP. 
+
 b. Learnt to use Vader Sentiment Analysis models and Bert sentiment analysis models. 
+
 c. Learnt to use Latent Dirichlet Allocation for topic modelling 
 
 
 2. Customer booking - 
 
 a. Learnt to deal with imbalanced datasets
+
 b. Improved skills pertaining to data cleaning and feature selection. 
